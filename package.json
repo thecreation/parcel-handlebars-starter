@@ -1,5 +1,5 @@
 {
-  "name": "parcel-starter",
+  "name": "parcel-handlebars-starter",
   "version": "0.0.1",
   "description": "A starter template for Parcel, Handlebars, ECMAScript(latest), sass and postcss.",
   "main": "src/index.js",
