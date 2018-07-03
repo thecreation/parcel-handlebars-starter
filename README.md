@@ -1,6 +1,6 @@
 # Parcel Starter
 
-> A starter template for Parcel, ECMAScript(latest), sass and postcss.
+> A starter template for Parcel, Handlebars, ECMAScript(latest), sass and postcss.
 
 ## Table of Contents
 
@@ -26,6 +26,13 @@ This starter also features a number of great software (in the words of their cre
 * [PostCSS](https://github.com/postcss/postcss) - a tool for transforming styles with JS plugins.
 * [Autoprefixer](https://github.com/postcss/autoprefixer) - adding vendor prefixes by the rules of [Can I Use](http://caniuse.com/).
 * [Stylelint](http://stylelint.io/) - a mighty, modern CSS linter (with preconfigured ruleset by [Hugo Giraudel](https://sass-guidelin.es/)).
+
+### Html
+
+* [handlebars](https://github.com/wycats/handlebars.js) - a javascript template engine.
+* [handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - Effortless registration of data, partials, helpers, and decorators using file-system globs, modules, and plain-old JavaScript objects.
+* [handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts) - a handlebars helpers which implement layout blocks.
+* [handlebars-helpers](https://github.com/helpers/handlebars-helpers) - More than 180 Handlebars helpers in ~20 categories.
 
 ### Git Hooks manager
 

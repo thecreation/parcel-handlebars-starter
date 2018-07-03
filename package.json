@@ -1,7 +1,7 @@
 {
   "name": "parcel-starter",
   "version": "0.0.1",
-  "description": "A starter kit for building web projects with modern JavaScript",
+  "description": "A starter template for Parcel, Handlebars, ECMAScript(latest), sass and postcss.",
   "main": "src/index.js",
   "scripts": {
     "clean": "rimraf ./dist",
