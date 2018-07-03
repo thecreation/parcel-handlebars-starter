@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {{#block "head"}}{{> head}}{{/block}}
+
+  {{#block "styles"}}
+  {{> styles}}
+  {{/block}}
+</head>
+<body>
+  {{#block "sidebar"}}{{> sidebar}}{{/block}}
+  <div class="wrap">
+    {{#block "header"}}{{> header}}{{/block}}
+    <div class="container content">
+      {{#block "main"}}
+        <h2>Hello World</h2>
+      {{/block}}
+    </div>
+  </div>
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  {{#block "scripts"}}
+  {{> scripts}}
+  {{/block}}
+</body>
+</html>
