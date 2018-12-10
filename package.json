@@ -16,24 +16,25 @@
   "author": "Creation Studio Limited",
   "license": "MIT",
   "devDependencies": {
-    "babel-minify": "^0.4.3",
+    "babel-core": "^6.26.3",
+    "babel-minify": "^0.5.0",
     "babel-preset-env": "^1.7.0",
-    "babel-preset-minify": "^0.4.3",
-    "eslint": "^5.0.1",
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-prettier": "^2.6.1",
-    "node-sass": "^4.9.0",
-    "parcel-bundler": "^1.9.4",
+    "babel-preset-minify": "^0.5.0",
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.10.3",
     "parcel-plugin-handlebars": "^0.4.4",
-    "postcss-preset-env": "^5.2.1",
-    "prettier": "^1.13.7",
-    "stylelint": "^9.3.0",
-    "stylelint-config-idiomatic-order": "^5.0.0",
-    "stylelint-config-prettier": "^3.3.0",
+    "postcss-preset-env": "^6.4.0",
+    "prettier": "^1.15.3",
+    "stylelint": "^9.9.0",
+    "stylelint-config-idiomatic-order": "^6.2.0",
+    "stylelint-config-prettier": "^4.0.0",
     "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-scss": "^3.1.3"
+    "stylelint-scss": "^3.4.1"
   },
   "browserslist": [
     "> 1%",
@@ -48,11 +49,11 @@
     "Opera >= 30"
   ],
   "dependencies": {
-    "autoprefixer": "^8.6.4",
-    "bootstrap": "^4.1.1",
+    "autoprefixer": "^9.4.2",
+    "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
-    "parcel-bundler": "^1.9.4",
-    "popper.js": "^1.14.3",
+    "parcel-bundler": "^1.10.3",
+    "popper.js": "^1.14.6",
     "rimraf": "^2.6.2"
   }
 }
