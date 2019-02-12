@@ -20,21 +20,21 @@
     "babel-minify": "^0.5.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-minify": "^0.5.0",
-    "eslint": "^5.12.0",
+    "eslint": "^5.13.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-prettier": "^3.5.0",
-    "eslint-plugin-import": "^2.14.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-prettier": "^3.0.1",
     "node-sass": "^4.11.0",
     "parcel-bundler": "^1.11.0",
     "parcel-plugin-handlebars": "^0.4.4",
     "postcss-preset-env": "^6.5.0",
-    "prettier": "^1.15.3",
-    "stylelint": "^9.10.0",
+    "prettier": "^1.16.4",
+    "stylelint": "^9.10.1",
     "stylelint-config-idiomatic-order": "^6.2.0",
     "stylelint-config-prettier": "^4.0.0",
     "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-scss": "^3.5.1"
+    "stylelint-scss": "^3.5.3"
   },
   "browserslist": [
     "> 1%",
@@ -49,11 +49,11 @@
     "Opera >= 30"
   ],
   "dependencies": {
-    "autoprefixer": "^9.4.5",
-    "bootstrap": "^4.2.1",
+    "autoprefixer": "^9.4.7",
+    "bootstrap": "^4.3.0",
     "jquery": "^3.3.1",
     "parcel-bundler": "^1.11.0",
-    "popper.js": "^1.14.6",
+    "popper.js": "^1.14.7",
     "rimraf": "^2.6.3"
   }
 }
