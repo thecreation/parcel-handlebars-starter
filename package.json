@@ -25,7 +25,7 @@
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "parcel-bundler": "^1.12.3",
     "parcel-plugin-handlebars": "^0.4.4",
     "postcss-preset-env": "^6.7.0",
